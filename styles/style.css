@@ -380,6 +380,9 @@ a img {
 	.footer_text>span:nth-child(3) {
 		font-size: 50%;
 	}
+	.footer_text a {
+		color:var(--color-white)
+	}
 
 	/* carousel */
 
